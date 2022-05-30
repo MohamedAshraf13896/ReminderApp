@@ -1,0 +1,4 @@
+1- create action types that contains atrr (type)        (add-reminder)//done
+2- create action creator  put the action in function    (add-reminder)//done
+3- create Reducers (state , action)
+4- Dispatch create function mapdispatchtoprops (dispatch) 

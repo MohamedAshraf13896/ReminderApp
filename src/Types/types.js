@@ -1,0 +1,5 @@
+export const ADD_REMINER = "ADD_REMINER";
+
+export const REMOVE_REMINDER = "REMOVE_REMINDER";
+
+export const CLEAR_REMINDER = "CLEAR_REMINDER";
